@@ -1,0 +1,79 @@
+p{
+    color: red;
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+
+.mobilenet{
+    letter-spacing: 2px;
+}
+
+
+img{
+    margin-top:10px ;
+    margin-bottom:10px ;
+    height: 300px;
+    border-radius: 10px;
+}
+
+span{
+    letter-spacing: 2px;
+    color:red;
+}
+
+b{
+    color:dark purple;
+}
+
+.test_image_and_result{
+margin-top:15px ;
+margin-bottom:15px ;
+background-color: pink;
+border-radius: 10px;
+box-shadow:1px 1px 25px grey ;
+width:99% ;
+}
+
+.google_lens{
+    color: black;
+}
+
+
+
+h4{
+    color: white;
+    font-weight:bold
+}
+
+.button{
+    color: red;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.bottom{
+    color: crimson;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width:100%;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.bottom{
+    font-weight: bold;
+    font-size: 15px;
+    width: 50%;
+}
+
+
+
+
+
+
+
